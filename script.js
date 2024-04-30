@@ -95,7 +95,8 @@ Exercise 7: Using the `slice()` method
 Complete Exercise 7 in the space below:
 */
 
-
+let yummy = []
+yummy.slice(0,0,foods[1],foods[2])
 console.log('Exercise 7 result:', yummy);
 
 
@@ -111,7 +112,7 @@ Complete Exercise 8 in the space below:
 */
 
 
-
+let soyIdx = foods.indexOf('tofu')
 console.log('Exercise 8 result:', soyIdx);
 
 
