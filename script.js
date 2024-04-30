@@ -147,5 +147,5 @@ Complete Exercise 10 in the space below:
 */
 
 
-
+hasSoup = foods.includes('soup')
 console.log('Exercise 10 result:', hasSoup);
