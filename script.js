@@ -79,7 +79,7 @@ Complete Exercise 6 in the space below:
 */
 
 
-
+foods.splice(1,1,'sushi', 'cupcake')
 console.log('Exercise 6 result:', foods)
 
 
