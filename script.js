@@ -95,8 +95,7 @@ Exercise 7: Using the `slice()` method
 Complete Exercise 7 in the space below:
 */
 
-let yummy = []
-yummy.slice(0,0,foods[1],foods[2])
+let yummy = foods.slice(1,3)
 console.log('Exercise 7 result:', yummy);
 
 
