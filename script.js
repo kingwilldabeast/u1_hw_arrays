@@ -36,7 +36,7 @@ Complete Exercise 3 in the space below:
 */
 
 
-
+foods.unshift("taco")
 console.log('Exercise 3 result:', foods);
 
 
