@@ -131,7 +131,7 @@ Complete Exercise 9 in the space below:
 */
 
 
-
+allFoods = foods.join(' -> ')
 console.log('Exercise 9 result:', allFoods);
 
 
